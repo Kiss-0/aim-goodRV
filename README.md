@@ -9,16 +9,17 @@ Se trata de una experiencia en la que el jugador deberá afinar su punteria para
 
 - Interacturar con las opciones del menú:
   - Apuntar con el control derecho/izquierdo y apretar el gatillo correspondiente cuando se apunte a la opcion deseada.
+- Spawnear Bola
+  - Pulsado la A del controlador derecho spawnera una bola en la mesa de la derecha.
 - Coger pelota
    - Acercar la mano derecha hacia una pelota y mantener pulsado el boton de agarre. Al mover la mano la pelota se movera con ella.
 - Lanzar bola
   - Apuntar hacia la diana y soltar el boton de agarre del mando. 
 
-### 📷 Controles (Imagen)
+### 📷 Controles
 
-_Añadir aquí la imagen con los controles del juego y leyenda de botones._
+![Controles](img/controles.png)
 
----
 
 ## 📌 Licencias
 

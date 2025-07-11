@@ -18,6 +18,7 @@ Proyect/.vs/
 
 # Fortran module files
 *.mod
+*.apk
 
 # Compiled Static libraries
 *.lai
